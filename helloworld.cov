@@ -1,0 +1,6 @@
+CET "Hello World!!"
+
+a = "Selamat Datang Di Channel Kami"
+b = "Jangan Lupa Subscribe yaaaa..."
+CET a
+CET b

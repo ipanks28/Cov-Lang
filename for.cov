@@ -1,0 +1,6 @@
+UHT i=0 SAM 5 MK CET i
+
+CET "atau menggunakan ini"
+
+a=5
+UHT i=0 SAM 5 MK a+i
